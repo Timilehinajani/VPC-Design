@@ -5,7 +5,7 @@ STEP 1: log into your AWS account
 STEP 2: navigate to VPC 
 STEP 3: select on create VPC 
 STEP 4: setup your VPC to your specic requirments
-STEP 5: select create VPC
+STEP 5: select create VPC.
 ![Screenshot (14)](https://github.com/user-attachments/assets/dfc1622b-4c85-4170-9284-b14ca1a59847)
 
 
